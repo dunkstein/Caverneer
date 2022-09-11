@@ -1,3 +1,7 @@
+This fork is from a school project
+
+Created by: Isaac Chan and Kenneth Li
+
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
 Tell the reader (someone who does not know anything about this project)
