@@ -1,11 +1,10 @@
-This fork is from a school project
-
 Created by: Isaac Chan and Kenneth Li
 
+![Title Screen Preview](images/TitleScreen.png?raw=true "Preview")
+
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+Things I would change: The file structure could use some work, putting them all into a source file folder
+would have been helpful for organization.
 ------------------------------------------------------------------------
 Asset Credits:
 - Cavern tileset by Adam Saltsman: https://adamatomic.itch.io/cavernas
