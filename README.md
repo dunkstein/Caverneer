@@ -1,4 +1,5 @@
 Created by: Isaac Chan and Kenneth Li
+How to use: Make a clone of this repo and then open the main folder, trashPokemon, using Greenfoot
 
 ![Title Screen Preview](images/TitleScreen.png?raw=true "Preview")
 
