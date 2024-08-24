@@ -1,5 +1,5 @@
 Created by: Isaac Chan and Kenneth Li <br/>
-How to use: Make a clone of this repo and then open the main folder, trashPokemon, using Greenfoot
+How to use: Make a clone of this repo and then open the main folder, Caverneer, using Greenfoot
 
 ![Title Screen Preview](images/TitleScreen.png?raw=true "Preview")
 
